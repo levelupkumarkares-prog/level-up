@@ -76,6 +76,7 @@ const Footer = () => {
                   info@levelupcapital.com
                 </a>
               </li>
+              
 
               <li className="flex items-start gap-3">
                 <Phone
