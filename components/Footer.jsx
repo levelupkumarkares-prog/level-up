@@ -138,13 +138,13 @@ const Footer = () => {
 
       {/* Bottom Footer */}
       <div className="border-t border-gray-100 bg-gray-50/70">
-        <div className="container mx-auto flex flex-col items-center justify-between gap-3 px-5 py-5 text-center sm:flex-row sm:px-8 sm:text-left lg:px-12">
+        <div className="container mx-auto flex flex-col items-center justify-between gap-3 px-5 py-5 text-center  lg:px-12">
           <p className="text-xs text-gray-500">
             © {new Date().getFullYear()} Level Up Capital.
             All rights reserved.
           </p>
 
-          <div className="flex items-center gap-5 text-xs text-gray-500">
+          {/* <div className="flex items-center gap-5 text-xs text-gray-500">
             <a
               href="/privacy-policy"
               className="transition-colors hover:text-[#B5893A]"
@@ -158,7 +158,7 @@ const Footer = () => {
             >
               Terms of Service
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </footer>
