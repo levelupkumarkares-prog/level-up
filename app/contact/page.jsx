@@ -1,3 +1,4 @@
+import ContactForm from "@/components/ContactForm";
 import { Mail, Phone, MapPin, ShieldCheck } from "lucide-react";
 
 export default function ContactPage() {
@@ -16,70 +17,7 @@ export default function ContactPage() {
       </section>
 
       <section className="container mx-auto max-w-8xl px-6 md:px-40 grid grid-cols-1 md:grid-cols-2 gap-14">
-        <div className="bg-white shadow-[0_20px_50px_rgba(181,137,58,0.25)] rounded-2xl p-8 md:p-10">
-          <h2 className="text-2xl font-semibold mb-8">Send Us a Message</h2>
-
-          <form className="space-y-5">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              <div>
-                <label className="block text-gray-700 font-medium mb-1">
-                  Name
-                </label>
-                <input
-                  type="text"
-                  placeholder="Your Name"
-                  className="w-full border border-gray-300 rounded-md p-3 focus:outline-none focus:ring-2 focus:ring-[#B5893A]"
-                />
-              </div>
-
-              <div>
-                <label className="block text-gray-700 font-medium mb-1">
-                  Email
-                </label>
-                <input
-                  type="email"
-                  placeholder="Your Email"
-                  className="w-full border border-gray-300 rounded-md p-3 focus:outline-none focus:ring-2 focus:ring-[#B5893A]"
-                />
-              </div>
-            </div>
-
-            <div>
-              <label className="block text-gray-700 font-medium mb-1">
-                Contact Number
-              </label>
-              <input
-                type="tel"
-                placeholder="Your Contact Number"
-                className="w-full border border-gray-300 rounded-md p-3 focus:outline-none focus:ring-2 focus:ring-[#B5893A]"
-              />
-            </div>
-
-            <div>
-              <label className="block text-gray-700 font-medium mb-1">
-                Message
-              </label>
-              <textarea
-                rows={6}
-                placeholder="Tell us about your business goals or capital needs"
-                className="w-full border border-gray-300 rounded-md p-3 focus:outline-none focus:ring-2 focus:ring-[#B5893A]"
-              />
-            </div>
-
-            <button
-              type="submit"
-              className="bg-[#B5893A] text-white font-semibold px-8 py-3 rounded-md hover:bg-[#a4792e] transition"
-            >
-              Request a Consultation
-            </button>
-
-            <div className="flex items-center gap-2 text-sm text-gray-600 pt-2">
-              <ShieldCheck className="w-4 h-4 text-[#B5893A]" />
-              Your information is kept confidential. No spam.
-            </div>
-          </form>
-        </div>
-
+        <ContactForm />
         <div className="space-y-8">
           <div className="bg-white shadow-[0_20px_50px_rgba(181,137,58,0.25)] rounded-2xl p-8">
             <h2 className="text-2xl font-semibold mb-6">
