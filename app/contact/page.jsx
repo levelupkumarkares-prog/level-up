@@ -89,7 +89,7 @@ export default function ContactPage() {
             <div className="space-y-4 text-gray-700">
               <p className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-[#B5893A]" />
-                 <a
+                <a
                   href="mailto:Raj@levelupcapitaladvisory.ca"
                   className="hover:underline"
                 >
@@ -100,20 +100,20 @@ export default function ContactPage() {
               <p className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-[#B5893A]" />
                 <a href="tel:+11234567890" className="hover:underline">
-                   + 1 (416)238-7120
+                  + 1 (416)238-7120
                 </a>
               </p>
 
               <p className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-[#B5893A] mt-1" />
-                 4950 Yonge Street, Suite 2200, Toronto, ON M2N 6K1
+                4950 Yonge Street, Country
               </p>
             </div>
           </div>
           <div className="rounded-2xl overflow-hidden shadow-[0_20px_50px_rgba(181,137,58,0.25)]">
             <div className="w-full h-96 md:h-125">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.086825674409!2d-122.41941568468116!3d37.77492977975908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085809c9b6f7a17%3A0x123456789abcdef!2sSan%20Francisco%2C%20CA!5e0!3m2!1sen!2sus!4v1672880666110!5m2!1sen!2sus"
+                src="https://maps.google.com/maps?q=4950%20Yonge%20Street%2C%20Suite%202200%2C%20Toronto%2C%20ON%20M2N%206K1&output=embed"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
