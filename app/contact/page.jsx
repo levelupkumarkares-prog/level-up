@@ -89,24 +89,24 @@ export default function ContactPage() {
             <div className="space-y-4 text-gray-700">
               <p className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-[#B5893A]" />
-                <a
-                  href="mailto:info@levelupcapital.com"
+                 <a
+                  href="mailto:Raj@levelupcapitaladvisory.ca"
                   className="hover:underline"
                 >
-                  info@levelupcapital.com
+                  Raj@levelupcapitaladvisory.ca
                 </a>
               </p>
 
               <p className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-[#B5893A]" />
                 <a href="tel:+11234567890" className="hover:underline">
-                  +1 (123) 456-7890
+                   + 1 (416)238-7120
                 </a>
               </p>
 
               <p className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-[#B5893A] mt-1" />
-                123 Finance Street, Business City, Country
+                 4950 Yonge Street, Suite 2200, Toronto, ON M2N 6K1
               </p>
             </div>
           </div>
