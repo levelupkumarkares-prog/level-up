@@ -106,7 +106,7 @@ export default function ContactPage() {
 
               <p className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-[#B5893A] mt-1" />
-                4950 Yonge Street, Country
+                4950 Yonge Street, Suite 2200, Toronto, ON M2N 6K1
               </p>
             </div>
           </div>
