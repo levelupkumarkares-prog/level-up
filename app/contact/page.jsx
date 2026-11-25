@@ -28,10 +28,10 @@ export default function ContactPage() {
               <p className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-[#B5893A]" />
                 <a
-                  href="mailto:Raj@levelupcapitaladvisory.ca"
+                  href="mailto:info@levelupcapitaladvisory.ca"
                   className="hover:underline"
                 >
-                  Raj@levelupcapitaladvisory.ca
+                  info@levelupcapitaladvisory.ca
                 </a>
               </p>
 

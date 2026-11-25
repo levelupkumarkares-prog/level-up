@@ -16,7 +16,7 @@ export default function ServicesOverview() {
           />
           <AnimatedFadeUp
             text="We provide strategic advisory and capital solutions across multiple
-            sectors to help businesses grow, scale, and create long-term value."
+            sectors to help businesses grow, scale and create long-term value."
             className="text-lg text-gray-700"
           />
         </div>

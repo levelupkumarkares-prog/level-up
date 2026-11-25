@@ -3,26 +3,23 @@ import Image from "next/image";
 const serviceSections = [
   {
     title: "SME Advisory & Business Growth Solutions",
-    desc: "We partner with small and medium-sized enterprises to deliver strategic financial guidance, capital solutions, and growth planning across every stage of the business lifecycle.",
+    desc: "We partner with small and medium-sized enterprises to deliver strategic financial guidance, capital solutions and growth planning across every stage of the business lifecycle.",
     points: [
       "Growth and expansion financing strategies",
       "Capital sourcing and structuring",
-      "Mergers and acquisition advisory",
       "Exit planning and business sale preparation",
-      "Succession and transition strategies",
       "Project development funding support",
     ],
     img: "/services-page/img.webp",
   },
   {
     title: "Capital Structuring & Financial Advisory",
-    desc: "Our financial advisory team delivers disciplined, objective strategies for capital structuring, funding, and long-term value creation.",
+    desc: "Our financial advisory team delivers disciplined, objective strategies for capital structuring, funding and long-term value creation.",
     points: [
       "Equity and debt structuring",
       "Growth capital sourcing",
       "Transaction advisory",
       "Financial modeling and feasibility analysis",
-      "Risk mitigation strategies",
     ],
     img: "/services-page/img1.webp",
   },
@@ -50,18 +47,6 @@ const serviceSections = [
     ],
     img: "/services-page/img3.webp",
   },
-  {
-    title: "Mergers, Acquisitions & Exit Advisory",
-    desc: "Strategic transaction advisory designed to maximize value and ensure smooth execution across acquisitions, mergers, and exits.",
-    points: [
-      "Acquisition strategy and evaluation",
-      "Financial due diligence",
-      "Transaction structuring",
-      "Exit readiness preparation",
-      "Negotiation support",
-    ],
-    img: "/services-page/img4.webp",
-  },
 ];
 
 const ServiceSection = () => {
@@ -74,7 +59,7 @@ const ServiceSection = () => {
           </h1>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
             Level Up Capital Advisors delivers integrated consulting and financial
-            advisory services to help businesses scale, secure capital, and
+            advisory services to help businesses scale, secure capital and
             unlock long-term value.
           </p>
         </div>

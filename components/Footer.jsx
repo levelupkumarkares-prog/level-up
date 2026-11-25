@@ -32,7 +32,7 @@ const Footer = () => {
             </Link>
             <p className="mt-4 max-w-xs text-sm leading-7 text-gray-500">
               Building financial confidence through strategic solutions, trusted
-              partnerships, and long-term growth.
+              partnerships and long-term growth.
             </p>
           </div>
 
@@ -73,10 +73,10 @@ const Footer = () => {
               <li className="flex items-start gap-3">
                 <Mail size={18} className="mt-0.5 shrink-0 text-[#B5893A]" />
                 <a
-                  href="mailto:Raj@levelupcapitaladvisory.ca"
+                  href="mailto:info@levelupcapitaladvisory.ca"
                   className="break-all text-sm text-gray-500 transition-colors hover:text-[#B5893A]"
                 >
-                  Raj@levelupcapitaladvisory.ca
+                  info@levelupcapitaladvisory.ca
                 </a>
               </li>
 

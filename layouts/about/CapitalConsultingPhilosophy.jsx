@@ -9,7 +9,7 @@ export default function CapitalConsultingPhilosophy() {
           <p className="mt-4 max-w-3xl text-gray-600 leading-relaxed">
             Sustainable growth requires more than individual transactions or
             short-term financial decisions. Long-term success is shaped by how
-            capital, strategy, and execution work together over time.
+            capital, strategy and execution work together over time.
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -20,7 +20,7 @@ export default function CapitalConsultingPhilosophy() {
             <p className="text-gray-700 leading-relaxed">
               Transactions executed without a broader strategic framework often
               fail to create lasting value. Short-term deal making can introduce
-              structural risk, misaligned incentives, and missed opportunities
+              structural risk, misaligned incentives and missed opportunities
               that limit future flexibility and growth.
             </p>
           </div>
@@ -30,9 +30,9 @@ export default function CapitalConsultingPhilosophy() {
             </h4>
             <p className="text-gray-700 leading-relaxed">
               An independent advisory perspective brings discipline,
-              objectivity, and informed challenge to critical decisions.
+              objectivity and informed challenge to critical decisions.
               Experienced advisors help identify blind spots, evaluate
-              alternatives, and ensure capital decisions support both current
+              alternatives and ensure capital decisions support both current
               objectives and future strategy.
             </p>
           </div>
@@ -44,7 +44,7 @@ export default function CapitalConsultingPhilosophy() {
               Every capital raise, acquisition, or investment decision compounds
               over time. When guided by integrated consulting and financial
               strategy, these decisions reinforce one another—building
-              resilience, scalability, and sustained enterprise value.
+              resilience, scalability and sustained enterprise value.
             </p>
           </div>
         </div>

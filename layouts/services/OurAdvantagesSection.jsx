@@ -21,7 +21,7 @@ const OurAdvantagesSection = () => {
     <section className="py-24 ">
       <div className="container mx-auto max-w-8xl px-6 md:px-12 text-center">
         <h2 className="text-3xl md:text-4xl font-semibold mb-14">
-          Why Choose Level Up Capital
+          Why Choose Level Up Capital ?
         </h2>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-10">

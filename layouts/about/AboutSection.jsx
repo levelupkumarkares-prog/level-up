@@ -39,7 +39,7 @@ const AboutSection = () => {
 
             <p>
              Level Up Capital Advisors is a corporate consulting and capital advisory
-              firm dedicated to helping businesses grow, scale, and unlock
+              firm dedicated to helping businesses grow, scale and unlock
               long-term value through strategic financial solutions and expert
               guidance.
             </p>
@@ -47,13 +47,13 @@ const AboutSection = () => {
             <p>
               We work with companies across multiple industries to deliver
               objective, high-level advisory services in capital structuring,
-              financing, acquisitions, and growth planning.
+              financing and growth planning.
             </p>
 
             <p>
               Our consulting frameworks and financial best practices support
               organizations seeking experienced, independent guidance on
-              expansion strategies, project development, acquisitions, and
+              expansion strategies, project development and
               access to capital.
             </p>
 

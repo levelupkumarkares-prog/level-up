@@ -12,12 +12,6 @@ const benefits = [
     ),
   },
   {
-    title: "Acquisition Support",
-    description:
-      "Expert guidance for mergers, acquisitions, and strategic partnerships.",
-    icon: <FileText className="w-10 h-10 mb-3" style={{ color: "#B5893A" }} />,
-  },
-  {
     title: "Succession Planning",
     description:
       "Prepare leadership and ownership transitions for long-term stability.",
@@ -40,13 +34,12 @@ const SMESection = () => {
             Supporting SMEs
           </h2>
           <p className="text-gray-700 text-lg">
-            Small and medium-sized businesses often face barriers in financing,
-            acquisitions, or succession planning. Level Up Capital Advisors provides
+            Small and medium-sized businesses often face barriers in financing or succession planning. Level Up Capital Advisors provides
             targeted solutions to unlock growth and long-term value.
           </p>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-3 gap-8">
           {benefits.map((benefit, index) => (
             <div
               key={index}

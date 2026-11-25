@@ -11,7 +11,7 @@ const LandingContent = () => {
           <AnimatedText text="Real Estate Capital Strategies for Business Scaling." />
         </h1>
         <AnimatedText
-          text="From growth financing to mergers and acquisitions, we provide expert guidance to unlock long-term value."
+          text="We deliver tailored capital advisory and strategic consulting services helping businesses access capital, navigate financial opportunities and achieve sustainable long-term growth."
           className="mt-4 text-base sm:text-lg md:text-xl text-gray-800 max-w-xl mx-auto"
         />
         <div className="mt-6 sm:mt-8 flex flex-col sm:flex-row justify-center gap-3 text-base">
@@ -19,7 +19,11 @@ const LandingContent = () => {
             <AnimatedButton href="/contact" className="w-full sm:w-auto">
               Get Started
             </AnimatedButton>
-            <AnimatedButton href="/services" variant="secondary" className="w-full sm:w-auto">
+            <AnimatedButton
+              href="/services"
+              variant="secondary"
+              className="w-full sm:w-auto"
+            >
               Explore Our Services
             </AnimatedButton>
           </ButtonGroup>

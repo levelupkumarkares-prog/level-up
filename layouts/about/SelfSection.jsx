@@ -19,14 +19,14 @@ const SelfSection = () => {
           </div>
 
           <div className="w-full md:w-3/5 space-y-5">
-            <h3 className="text-4xl font-semibold text-gray-900">Who We Are</h3>
+            <h3 className="text-4xl font-semibold text-gray-900">Who We Are ?</h3>
 
             <p className="text-gray-700 leading-relaxed text-lg">
               We are a team of experienced corporate consultants and financial
               advisors with deep cross-industry expertise, supporting businesses
               through complex financial and strategic decisions. Our work
-              focuses on helping organizations grow, scale, and unlock long-term
-              value through disciplined advisory, capital structuring, and
+              focuses on helping organizations grow, scale and unlock long-term
+              value through disciplined advisory, capital structuring and
               transaction support.
             </p>
 
@@ -34,8 +34,8 @@ const SelfSection = () => {
               Drawing on extensive experience across multiple sectors, we
               provide independent, objective guidance tailored to each client’s
               goals and operating environment. We partner closely with business
-              owners, developers, and management teams to evaluate
-              opportunities, mitigate risk, and execute strategies with
+              owners, developers and management teams to evaluate
+              opportunities, mitigate risk and execute strategies with
               confidence and precision.
             </p>
           </div>
@@ -60,15 +60,15 @@ const SelfSection = () => {
             <p className="text-gray-700 leading-relaxed text-lg">
               We provide integrated consulting and capital advisory solutions
               that support businesses at every stage of growth. Our services
-              span financing, mergers and acquisitions advisory, project
-              funding, and strategic growth planning, ensuring each decision is
+              span financing,  project
+              funding and strategic growth planning, ensuring each decision is
               aligned with long-term value creation.
             </p>
 
             <p className="text-gray-700 leading-relaxed text-lg">
               By combining strategic insight with financial expertise, we help
               clients structure capital effectively, assess opportunities
-              objectively, and execute complex transactions with confidence. Our
+              objectively and execute complex transactions with confidence. Our
               approach goes beyond individual deals, delivering practical
               guidance that strengthens businesses and supports sustainable,
               scalable outcomes.

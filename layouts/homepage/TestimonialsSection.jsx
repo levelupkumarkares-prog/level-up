@@ -11,7 +11,7 @@ const testimonials = [
   },
   {
     quote:
-      "Their expertise in mergers and acquisitions helped us navigate complex transactions with ease and achieve excellent results.",
+      "Their expertise in mergers helped us navigate complex transactions with ease and achieve excellent results.",
     name: "John Smith",
     designation: "Founder, XYZ Corp",
   },

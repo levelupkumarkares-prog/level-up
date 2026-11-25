@@ -13,7 +13,7 @@ export default function AboutSection() {
             className="text-4xl font-bold text-gray-900 mb-4"
           />
           <AnimatedFadeUp
-            text="Level Up Capital Advisors is a corporate consulting and capital advisory firm dedicated to helping businesses grow, scale, and unlock long-term value through strategic financial solutions and expert guidance."
+            text="Level Up Capital Advisors is a corporate consulting and capital advisory firm dedicated to helping businesses grow, scale and unlock long-term value through strategic financial solutions and expert guidance."
             className="text-gray-700 text-lg"
           />
         </div>

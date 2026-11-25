@@ -41,7 +41,7 @@ export default function StatsSection() {
             suffix="M+"
             label="Capital Raising Transactions Advised"
           />
-          <Stat value={100} suffix="+" label="Clients Supported Through Strategic Engagements" />
+          <Stat value={50} suffix="+" label="Clients Supported Through Strategic Engagements" />
         </div>
       </motion.div>
     </section>

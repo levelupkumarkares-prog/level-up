@@ -16,7 +16,7 @@ export default function MissionAndValues() {
           </h3>
           <p className="mt-4 max-w-3xl leading-relaxed text-gray-600">
             Our mission and values guide every engagement, shaping how we
-            advise, collaborate, and deliver outcomes for our clients. They
+            advise, collaborate and deliver outcomes for our clients. They
             define our decision-making framework, inform how we allocate capital
             and resources.
           </p>
@@ -35,7 +35,7 @@ export default function MissionAndValues() {
             We exist to help businesses build resilience while achieving
             measurable, sustainable financial advancement. In an increasingly
             complex and competitive environment, our role is to provide
-            disciplined strategy, experienced guidance, and structured capital
+            disciplined strategy, experienced guidance and structured capital
             solutions that enable clients not only to endure challenges, but to
             grow with confidence.
           </p>
@@ -44,17 +44,17 @@ export default function MissionAndValues() {
           {[
             {
               title: "Integrity",
-              text: "We provide independent, objective advice grounded in transparency, accountability, and ethical decision-making. Our clients trust us to act in their best interests at every stage.",
+              text: "We provide independent, objective advice grounded in transparency, accountability and ethical decision-making. Our clients trust us to act in their best interests at every stage.",
               icon: ShieldCheck,
             },
             {
               title: "Precision",
-              text: "Capital and strategic decisions demand accuracy and discipline. We apply rigorous analysis, structured frameworks, and attention to detail to ensure decisions are well-informed and execution-ready.",
+              text: "Capital and strategic decisions demand accuracy and discipline. We apply rigorous analysis, structured frameworks and attention to detail to ensure decisions are well-informed and execution-ready.",
               icon: Crosshair,
             },
             {
               title: "Partnership",
-              text: "We work as long-term strategic partners, collaborating closely with business owners, management teams, and stakeholders to align strategy, capital, and outcomes.",
+              text: "We work as long-term strategic partners, collaborating closely with business owners, management teams and stakeholders to align strategy, capital and outcomes.",
               icon: Users,
             },
             {
